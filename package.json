@@ -1,0 +1,24 @@
+{
+  "name": "count-with-care",
+  "version": "0.0.0",
+  "description": "couples calories counting app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pfil/count-with-care.git"
+  },
+  "author": "pfil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pfil/count-with-care/issues"
+  },
+  "homepage": "https://github.com/pfil/count-with-care",
+  "dependencies": {
+    "express": "^4.6.1",
+    "orchestrate": "^0.2.0",
+    "body-parser": "~1.0.1"
+  }
+}
